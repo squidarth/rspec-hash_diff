@@ -37,6 +37,8 @@ Finished in 0.00665 seconds (files took 0.67129 seconds to load)
 1 example, 1 failure
 ```
 
+This nested diff is computed using [hashdiff](https://github.com/liufengyun/hashdiff).
+
 
 ### Installation
 
@@ -49,7 +51,7 @@ Finished in 0.00665 seconds (files took 0.67129 seconds to load)
 
 ### Thanks
 
-This rspec library only exists because of @liufengyun's awesome [hashdiff](https://github.com/liufengyun/hashdiff) library! Thank you!
+This rspec library only exists because of @liufengyun's awesome [hashdiff](https://github.com/liufengyun/hashdiff) library. Thank you!
 
 
 
