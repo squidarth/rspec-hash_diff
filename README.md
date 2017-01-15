@@ -42,12 +42,7 @@ This nested diff is computed using [hashdiff](https://github.com/liufengyun/hash
 
 ### Installation
 
-*Coming Soon*
-
-
-### Contributing
-
-*Coming Soon*
+`gem install rspec-hash_diff`
 
 ### Thanks
 
