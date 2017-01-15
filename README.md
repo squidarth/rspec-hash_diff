@@ -40,9 +40,13 @@ Finished in 0.00665 seconds (files took 0.67129 seconds to load)
 This nested diff is computed using [hashdiff](https://github.com/liufengyun/hashdiff).
 
 
-### Installation
+### Installation & Usage
+
+Available on RubyGems:
 
 `gem install rspec-hash_diff`
+
+Simply call `require 'rspec-hash_diff' in a `spec_helper.rb` file (or any spec files where you want this to run).
 
 ### Thanks
 
